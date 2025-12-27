@@ -40,8 +40,10 @@ A high-performance **3D Zombie Survival Arena** built from scratch using **Pytho
 | **Space** | Jump |
 | **C** | Toggle Camera (1st/3rd Person) |
 | **F** | Switch Weapon (AK47/Shotgun) |
-| **Right Click + Drag** | Look / Rotate |
-| **Left Click / Q** | Fire Weapon |
+| **Right Click** | Rotate |
+| **Left Click** | Fire Weapon |
+| **Q** | Use Special Ability |
+| **T** | Toggle Special Ability |
 
 ---
 
